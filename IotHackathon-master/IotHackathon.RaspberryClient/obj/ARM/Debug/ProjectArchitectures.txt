@@ -1,0 +1,1 @@
+E:\Proiecte\Rasberry 3.14\adafruitsample-master (1)\adafruitsample-master\Blinky\CS\Blinky.csproj;arm
