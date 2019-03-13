@@ -1,19 +1,7 @@
 # IoT
 Internet of Things Hackathon
-Colegiul National de Informatica “Tudor Vianu”
 
-LUCRARE DE ATESTAT
 -Aplicatia BlindAid-
-
-
-Profesor Coordonator,
-Carmen Minca  
-Autor,
-Numele si prenumele: 
-Matei Cristina-Gabriela
-Clasa a 12 a E
-2016-2017
-
 
 Aplicatia “BlindAid” vine ca o solutie pentru persoanele care au dizabilitati vizuale. Ea poate ajuta oamenii nevazatori sa isi gaseasca mult mai rapid obiectele pierdute cu ajutorul telefonului.
 	Exista 3 butoane principale:
